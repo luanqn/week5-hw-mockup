@@ -1,0 +1,38 @@
+* {margin: 0;
+   padding: 0;}
+
+.green { background-color: rgb(184, 237, 100);
+        width: 4rem;
+        height: 4rem;}
+
+.light-blue { background-color: rgb(20, 240, 247);
+        width: 4rem;
+        height: 4rem;}
+
+.darker-blue { background-color: rgb(17, 208, 214);
+        width: 4rem;
+        height: 4rem;}
+
+
+.orange { background-color: rgb(242, 224, 24);
+        width: 4rem;
+        height: 4rem;}
+
+.pink { background-color: pink;
+        width: 4rem;
+        height: 4rem;}
+
+.white1 { background-color: white;
+        width: 4rem;
+        height: 4rem;}
+
+
+.white { background-color: white;
+        width: 4rem;
+        height: 4rem;}
+
+.gray { background-color: gray;
+        width: 4rem;
+        height: 4rem;}
+
+

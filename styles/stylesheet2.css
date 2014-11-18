@@ -1,0 +1,192 @@
+/*
+div {margin: 1rem;
+     border: 0;}
+
+
+p {
+    font-family: 'Oxygen', sans-serif;
+}
+
+.blue {
+
+}
+
+.big {
+    font-size: 5rem;
+}
+
+.light-blue {
+        position: relative;
+    top: 2rem;
+    right: 2rem;
+}
+
+.orange {
+
+}
+
+    
+.pink {}
+.purple {}
+.black {}
+.darker-blue {}
+
+*/
+.url, .url-description {
+  font-family: 'Lato', sans-serif;
+}
+
+.url {
+  padding-left: 8px;
+  padding-top: 8px;
+  font-size: 18px;
+}
+
+.url-description {
+  padding-left: 8px;
+  font-size: 14px;  
+}
+
+.green, .white, .container1 {
+  margin-left: 1rem;
+}
+
+.green {
+  margin-top: 1rem;
+  width: 45rem;
+}
+
+.white {
+  width: 45rem;
+  height: 2.5rem;
+}
+
+header div li {
+  display: inline-block;   
+  padding: .5rem 1.2rem;
+  margin: 0;
+  /*border-left: 4px solid black;*/
+  background-color: white;
+  color: black;
+}
+
+header div li:first-of-type {
+  border-left: none;
+}
+
+.container1 {
+   width: 11rem;
+   height: 23rem;
+   float: left;
+}
+  
+
+nav li {
+  display: block;
+  list-style-type: none;
+  position: relative;
+  left: 1rem;
+  top: 2rem;
+  padding: .5rem 1rem;
+}
+
+.light-blue {
+    width: 100%; 
+    height: 70%; 
+    
+    /*float: left;*/}
+
+.darker-blue {
+    position: relative;
+    top: 1rem;
+    width: 100%; 
+    height: 30%;
+}
+
+
+div.orange, div.gray, div.white1 {
+  position: relative;
+  left: 13rem;
+}
+
+.orange {
+    width: 33rem;
+    height: 3rem; 
+}
+
+.white1 {
+  width: 33rem;
+  height: 19rem;
+}
+
+.gray {
+  width: 33rem;
+  height: 2rem; 
+}
+
+p.message1, p.message2, p.message3, p.headline {
+  position: relative;
+  left: -10rem;
+  width: 40rem;
+}
+
+
+p.message1 , p.message2, p.message3{
+  font-size: 12px;
+}
+
+p.message1{
+  top: 2rem;
+}
+
+
+p.message2{
+  top: 3rem;
+}
+
+p.message3{
+  top: 4rem;
+}
+
+
+p.headline {
+  top: 1rem;
+  color: white;
+}
+div p {
+  top: 1rem;
+}
+
+.headline, li {
+  font-family: 'Roboto', sans-serif;
+}
+
+li {
+  font-size: 14px;
+  color: white;
+}
+
+
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+a.link1:hover, a.link1:visited, a.link1:link, a.link1:active
+{
+    text-decoration: none;
+    color: black;
+}
+
+a.link2:hover, a.link2:visited, a.link2:link, a.link2:active
+{
+    text-decoration: none;
+    color: white;
+}
+
+.pos {
+  position: relative;
+  left: 17rem;
+  top: .5rem;
+}
